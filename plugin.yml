@@ -1,0 +1,10 @@
+name: AutoBroadcast
+main: com.gmail.filoghost.autobroadcast.AutoBroadcast
+version: 1.0
+
+softdepend: [WildCommons]
+
+commands:
+   autobroadcast:
+      description: Modifica gli annunci automatici.
+      aliases: [ab]
